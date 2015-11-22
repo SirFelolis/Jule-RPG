@@ -1,9 +1,3 @@
-# =============== #
-# Unity generated #
-# =============== #
-Temp/
-Library/
-
 # ===================================== #
 # Visual Studio / MonoDevelop generated #
 # ===================================== #
@@ -14,8 +8,6 @@ obj/
 *.pidb
 *.suo
 *.user
-*.unityproj
-*.booproj
 
 # ============ #
 # OS generated #
